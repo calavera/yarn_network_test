@@ -36,5 +36,9 @@
   "main": "n/a",
   "scripts": {
     "build": "./build.sh"
+  },
+  "repository": {
+    "url": "git@github.com:calavera/yarn_network_test.git",
+    "type": "git"
   }
 }
