@@ -35,6 +35,6 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "build": "./build.sh",
+    "build": "./build.sh"
   }
 }
